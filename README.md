@@ -1,4 +1,4 @@
-# Sistema-Banc-rio-DIO
+# Sistema-Bancario-DIO
 Este projeto é um desafio proposto pela DIO.
 
 Objetivo Geral
